@@ -1,0 +1,12 @@
+{
+  "name": "sergeisvirin72/todo",
+  "description": "Todo list",
+  "require": {
+    "php": ">=7.0.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Todo\\": "src/Todo"
+    }
+  }
+}
